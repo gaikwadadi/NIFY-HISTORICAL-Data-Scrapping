@@ -13,7 +13,7 @@ Features:
 - Clean CSV export with proper data validation
 - Production-ready logging and monitoring
 
-Author: AI Assistant
+Author: Aditya Gaikwad
 Version: 2.0 (Production)
 """
 
